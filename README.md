@@ -30,14 +30,14 @@ This is an end-to-end Business Intelligence Project. Maven Market is a multinati
 * The brand "Hermanos" leads with the highest profit and total transactions but interestingly has the highest rate of return and returns quantity.
 * Canada, despite having half the sales of Mexico, generates more revenue.
 
-### Dashboard view:
+### Dashboard View:
 
 <img width="518" alt="MM Dashboard" src="https://github.com/oladzie/Maven-Market-Power-BI-Dasboard/assets/141512778/97a53d43-6eb5-44e6-acdb-6c05171bcd5c">
 
-### Note view:
+### Note View:
 
 <img width="517" alt="MM Note" src="https://github.com/oladzie/Maven-Market-Power-BI-Dasboard/assets/141512778/aedf90ef-f4ee-4845-b3ba-04278b2a390c">
 
-### Model view:
+### Model View:
 
 <img width="544" alt="MM Model" src="https://github.com/oladzie/Maven-Market-Power-BI-Dasboard/assets/141512778/34592ffd-ec05-4805-bf1f-19c3ae3ce0e8">
