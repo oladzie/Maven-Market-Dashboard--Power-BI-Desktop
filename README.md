@@ -32,11 +32,11 @@ This is an end-to-end Business Intelligence Project. Maven Market is a multinati
 
 ### Dashboard view:
 
-<img width="518" alt="MM Dashboard" src="https://github.com/oladzie/Maven-Market-Power-BI-Dasboard/assets/141512778/ec711fe1-066e-46e5-bd00-3398f016d783">
+<img width="518" alt="MM Dashboard" src="https://github.com/oladzie/Maven-Market-Power-BI-Dasboard/assets/141512778/97a53d43-6eb5-44e6-acdb-6c05171bcd5c">
 
 ### Note view:
 
-<img width="517" alt="MM Note" src="https://github.com/oladzie/Maven-Market-Power-BI-Dasboard/assets/141512778/45f5f55e-4dbc-4448-8399-40478634c715">
+<img width="517" alt="MM Note" src="https://github.com/oladzie/Maven-Market-Power-BI-Dasboard/assets/141512778/aedf90ef-f4ee-4845-b3ba-04278b2a390c">
 
 ### Model view:
 
