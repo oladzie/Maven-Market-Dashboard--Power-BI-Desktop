@@ -1,22 +1,22 @@
 # Maven-Market-Power-BI-Dasboard
 
-MavenMarket Dashboard
-Project Overview:
+### Project Overview:
 MavenMarketDashboard
 This is an end-to-end Business Intelligence Project. Maven Market is a multinational grocery chain with locations in Canada, Mexico, and the United States.
 
-Objectives:
+### Objectives:
 
-Track Key Performance Indicators (KPIs).
-Connect and Shape Data.
-Build a Relational Model.
-Design a Fully Interactive Dashboard.
-Identify High-Value Customers.
-Data Source: The dataset consists of raw CSV files provided by Maven Analytics.
+* Track Key Performance Indicators (KPIs).
+* Connect and Shape Data.
+* Build a Relational Model.
+* Design a Fully Interactive Dashboard.
+* Identify High-Value Customers.
+* Data Source: The dataset consists of raw CSV files provided by Maven Analytics.
 
-Project Workflow:
+### Project Workflow:
 
-Data Extraction: Extracted data from raw CSV files into the Power Query Editor.
+1. Data Extraction: Extracted data from raw CSV files into the Power Query Editor.
+
 Data Hygiene and Transformation: Corrected data types, promoted headers, and cleaned null values and duplicates.
 Data Transformation: Added new columns for date-time analysis, such as the start of the week and the start of the year. Additionally, relevant columns like full names and email domains were incorporated.
 Data Modeling: After the ETL (Extract, Transform, Load) process, design a data model with a star and snowflake schema, including one-to-many relationships.
